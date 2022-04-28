@@ -9,5 +9,5 @@ Currently It supports-
 2. `Discord` (Discord app from official website)
 3. `Visual Studio Code` (Named as code.sh [Official])
 
-<br>
+
 *Created with love by* **Parambir Singh**
