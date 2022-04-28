@@ -7,5 +7,5 @@ I made this for easy installation of apps and drivers.
 Currently It supports-
 1. `rtl8188gu driver` (Realtek Corporation Non Offical Drivers) Source repo for driver is <a href="https://github.com/mcmccru/rtl8188gu">here</a>
 2. `Discord` (Discord app from official website)
-
+3. `Visual Studio Code` (Named as code.sh [Official])
 *Created with love by* **Parambir Singh**
