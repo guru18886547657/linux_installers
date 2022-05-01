@@ -27,6 +27,8 @@ clear
 echo "Creating Repair File"
 sleep 1s
 cd
+touch repair.sh
+sudo rm -r ./repair.sh
 echo "#!/bin/bash" >> repair.sh
 echo "clear" >> repair.sh
 echo "echo 'Repairing...'" >> repair.sh
@@ -37,7 +39,7 @@ echo "cd ../current/rtl8188gu" >> repair.sh
 echo "make" >> repair.sh
 echo "sudo make install" >> repair.sh
 echo "clear" >> repair.sh
-echo "Repaired" >> repair.sh
+echo "echo 'Repaired'" >> repair.sh
 echo "read x" >> repair.sh
 echo "Done"
 sleep 1s
