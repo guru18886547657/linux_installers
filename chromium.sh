@@ -17,7 +17,7 @@ sudo apt install unzip --assume-yes &> /dev/null
 sudo unzip ./chrome-linux.zip &> /dev/null
 sudo mv ./chrome-linux ~/
 cd
-sudo mv ./chrome-linux ./.chrome-linuz
+sudo mv ./chrome-linux ./.chrome-linux
 cd /usr/share/applications
 sudo touch chr.desktop
 sudo echo "[Desktop Entry]" >> chr.desktop
