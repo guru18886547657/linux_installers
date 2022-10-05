@@ -9,5 +9,5 @@ Currently It supports-
 2. `Discord` (Discord app from official website)
 3. `Visual Studio Code` (Named as code.sh [Official])
 4. `Chromium (Non-Snap)(executable-version)` (Official Stable build of Chromium from their official website)
-
+5. `Firefox (Non-Snap)` (Official Firefox)
 *Created with love by* **Parambir Singh**
